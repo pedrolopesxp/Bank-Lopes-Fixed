@@ -12,5 +12,5 @@ Recursos principais:
 
 ₿ Transferência em Bitcoin – Conecte o mundo das criptomoedas à sua conta e envie ou receba BTC com facilidade.
 
-🏦 TED e DOC – Realize transferências bancárias tradicionais com agilidade.
+🏦 TED – Realize transferências bancárias tradicionais com agilidade.
 
